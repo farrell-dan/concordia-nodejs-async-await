@@ -165,6 +165,4 @@ module.exports = { myFunction };
 
 ---
 
-## Exercise 6 - The Frontend
 
-Add a React Frontend to render the jokes to the browser.
