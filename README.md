@@ -164,5 +164,3 @@ module.exports = { myFunction };
 <center>🟢 - Complete workshop (100%) - 🟢</center>
 
 ---
-
-
