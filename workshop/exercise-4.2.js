@@ -7,7 +7,7 @@ const getPun = async () => {
       uri: 'https://v2.jokeapi.dev/joke/Pun',
       qs: {
         blacklistFlags: 'nsfw,religious,political,racist,sexist',
-        type: 'single', // You can choose 'single' or 'twopart' here
+        type: 'single,twopart',
         format: 'json',
       },
     };
